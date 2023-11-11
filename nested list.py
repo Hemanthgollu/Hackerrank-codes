@@ -1,4 +1,4 @@
-# nested loop using dict and list method
+# nested loop using dict and list method using python
 if __name__ == '__main__':
     dic={}
     s=[]
